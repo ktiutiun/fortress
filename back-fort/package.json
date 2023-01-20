@@ -1,0 +1,9 @@
+{
+  "name": "back-fortress",
+  "version": "1.0.0",
+  "description": "Back part of multiplayer board game fortress",
+  "main": "index.js",
+  "repository": "/Users/k.tiutiunyk/Desktop/fortress/back-fort",
+  "author": "Kateryna Tiutiunyk",
+  "license": "MIT"
+}

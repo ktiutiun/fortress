@@ -1,0 +1,9 @@
+{
+  "name": "front-fortress",
+  "version": "1.0.0",
+  "description": "Front part of multiplayer board game fortress",
+  "main": "index.js",
+  "repository": "https://github.com/ktiutiun/fortress",
+  "author": "Kateryna Tiutiunyk",
+  "license": "MIT"
+}
